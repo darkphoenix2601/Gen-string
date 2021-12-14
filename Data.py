@@ -13,7 +13,7 @@ If you don't trust this bot,
 2) block bot or delete chat
 
 This Bot Works To Help You Get Session String Via Bot. Recommendations If You Want To Take String Use Another Account, So As Not To Delay. Thank you
-By @mr_developer_xd
+By @Professer_Ashu
     """
 
     # Home Button
@@ -29,12 +29,12 @@ By @mr_developer_xd
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/mr_developer_xd")],
+        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/Professer_Ashu")],
         [
             InlineKeyboardButton("How to use me❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ Other bot info ♥", url="https://t.me/lynx_userbot")],
+        [InlineKeyboardButton("♥ Other bot info ♥", url="https://t.me/Miss_AkshiV1_Updates")],
     ]
 
     # Help Message
@@ -53,13 +53,13 @@ By @mr_developer_xd
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to retrieve pyrograms and telethon string sessions by @lynx_userbot
+A telegram bot to retrieve pyrograms and telethon string sessions by @Miss_AkshiV1_Updates
 
-About Developer : [About Dev.](https://t.me/about_developer)
+About Developer : [About Dev.](https://t.me/Professer_Ashu)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @mr_developer_xd
+Developer : @Professer_Ashu
     """
