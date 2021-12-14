@@ -12,7 +12,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-UNKOWN-xd/String-Generator-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/darkphoenix2601/Gen-string)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -61,14 +61,11 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Lynx Bots](https://t.me/lynx_userbot)
+Channel :- [Professor updates](https://t.me/Miss_AkshiV1_Updates)
 
-Group Chat :- [Group support](https://t.me/lynxbot_chat)
+Group Chat :- [Group support](https://t.me/Miss_AkshiV1_Support)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sarfarazstark)
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/sarfarazstark)
