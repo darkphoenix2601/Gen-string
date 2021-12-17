@@ -134,13 +134,13 @@ async def cancelled(msg):
         return False
 
 
- @Client.on_message(filters.private & ~filters.forwarded & filters.command(['cancel', 'restart']))
- async def formalities(_, msg):
-     if "/cancel" in msg.text:
-         await msg.reply("Membatalkan Semua Processes!", quote=True, reply_markup=InlineKeyboardMarkup(Data.generate_button))
-         return True
-     elif "/restart" in msg.text:
-         await msg.reply("Memulai Ulang Bot!", quote=True, reply_markup=InlineKeyboardMarkup(Data.generate_button))
-         return True
-     else:
-         return False
+@Client.on_message(filters.private & ~filters.forwarded & filters.command(['cancel', 'restart']))
+async def formalities(_, msg):
+    if "/cancel" in msg.text:
+        await msg.reply("Membatalkan Semua Processes!", quote=True, reply_markup=InlineKeyboardMarkup(Data.generate_button))
+        return True
+    elif "/restart" in msg.text:
+        await msg.reply("Memulai Ulang Bot!", quote=True, reply_markup=InlineKeyboardMarkup(Data.generate_button))
+        return True
+    else:
+        return False
