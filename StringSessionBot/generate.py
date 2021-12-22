@@ -1,7 +1,7 @@
 import asyncio
 import os
 import time
-from bot import bot, HU_APP
+from generator import app
 from pyromod import listen
 from asyncio.exceptions import TimeoutError
 
