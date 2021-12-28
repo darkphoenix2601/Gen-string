@@ -1,5 +1,5 @@
+https://github.com/New-dev0/Telethon/archive/Branch.zip
 Pyrogram==1.2.20
-Telethon==1.24.0
 TgCrypto
 SQLAlchemy
 psycopg2
