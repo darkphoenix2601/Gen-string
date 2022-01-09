@@ -1,14 +1,3 @@
-# Pyrogram and Telethon String Session Bot 
-
-> A star ⭐ from you means a lot to us!
-
-<p align="center"><a href="https://www.github.com/Itz-UNKOWN-xd"><img src="https://telegra.ph/file/7ec22c82f580a334dd13e.jpg" width="2000"></a></p>
-
-Telegram bot to generate pyrogram and telethon string session.
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-## Usage
 
 ### Deploy to Heroku
 
@@ -54,9 +43,6 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## To-Do
 
-> That's on you mainly...
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 
 ## Support
@@ -66,6 +52,4 @@ Channel :- [Professor updates](https://t.me/Miss_AkshiV1_Updates)
 Group Chat :- [Group support](https://t.me/Miss_AkshiV1_Support)
 
 ## :)
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
