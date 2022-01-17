@@ -12,7 +12,7 @@
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/Itz-UNKOWN-xd/String-Generator-Bot
+   git clone https://github.com/darkphoenix2601/Gen-string
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
